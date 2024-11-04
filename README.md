@@ -1,0 +1,2 @@
+# goreader
+read golang code
